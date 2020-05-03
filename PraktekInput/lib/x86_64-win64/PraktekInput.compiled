@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\Coding\Lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1331391477"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq &quot;-FiC:\Users\User\Praktek Lazarus\192-visual1\PraktekInput\lib\x86_64-win64&quot; -FuC:\Coding\Lazarus\lcl\units\x86_64-win64\win32 -FuC:\Coding\Lazarus\lcl\units\x86_64-win64 -FuC:\Coding\Lazarus\components\lazutils\lib\x86_64-win64 -FuC:\Coding\Lazarus\packager\units\x86_64-win64 &quot;-FuC:\Users\User\Praktek Lazarus\192-visual1\PraktekInput\&quot; &quot;-FUC:\Users\User\Praktek Lazarus\192-visual1\PraktekInput\lib\x86_64-win64\&quot; &quot;-FEC:\Users\User\Praktek Lazarus\192-visual1\PraktekInput\&quot; &quot;-oC:\Users\User\Praktek Lazarus\192-visual1\PraktekInput\PraktekInput.exe&quot; -dLCL -dLCLwin32 PraktekInput.lpr"/>
+</CONFIG>
